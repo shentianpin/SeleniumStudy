@@ -1,0 +1,36 @@
+1537857863860	geckodriver	INFO	Listening on 127.0.0.1:51416
+1537857867183	mozprofile::profile	INFO	Using profile path C:\Users\沈天品\AppData\Local\Temp\rust_mozprofile.eG5DFu6YMlJH
+1537857867194	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1537857867392	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51430
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1537857869782	Marionette	INFO	Listening on port 51430
+JavaScript warning: http://gosspublic.alicdn.com/aliyun-oss-sdk-4.3.0.min.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1579677755652	geckodriver	INFO	Listening on 127.0.0.1:52975
+1579677758314	mozprofile::profile	INFO	Using profile path C:\Users\沈天品\AppData\Local\Temp\rust_mozprofile.FZRzCBYaYGOh
+1579677758355	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1579677758468	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52992
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1579677760961	Marionette	INFO	Listening on port 52992
+JavaScript warning: https://gosspublic.alicdn.com/aliyun-oss-sdk-4.3.0.min.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://gosspublic.alicdn.com/aliyun-oss-sdk-4.3.0.min.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1579677780420	geckodriver	INFO	Listening on 127.0.0.1:53101
+1579677783501	mozprofile::profile	INFO	Using profile path C:\Users\沈天品\AppData\Local\Temp\rust_mozprofile.qaiXOO0EiT2s
+1579677783568	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1579677783903	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53110
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1579677787608	Marionette	INFO	Listening on port 53110
+JavaScript warning: https://gosspublic.alicdn.com/aliyun-oss-sdk-4.3.0.min.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1579677802479	geckodriver	INFO	Listening on 127.0.0.1:53173
+1579677805588	mozprofile::profile	INFO	Using profile path C:\Users\沈天品\AppData\Local\Temp\rust_mozprofile.g5vCdPwKNI4J
+1579677805635	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1579677805751	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53181
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1579677808230	Marionette	INFO	Listening on port 53181
+JavaScript warning: https://gosspublic.alicdn.com/aliyun-oss-sdk-4.3.0.min.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1579677821863	geckodriver	INFO	Listening on 127.0.0.1:53249
+1579677824972	mozprofile::profile	INFO	Using profile path C:\Users\沈天品\AppData\Local\Temp\rust_mozprofile.ruJtj4EHnaCb
+1579677825013	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1579677825115	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53258
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1579677827587	Marionette	INFO	Listening on port 53258
+JavaScript warning: https://gosspublic.alicdn.com/aliyun-oss-sdk-4.3.0.min.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
